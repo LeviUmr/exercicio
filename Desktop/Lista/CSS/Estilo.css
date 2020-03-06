@@ -1,0 +1,12 @@
+.Texto {
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+    border: black;
+    
+}
+
+#Página {
+    background-color: rgb(126, 228, 241);
+}
+
+.botao{ padding-left: 1em;}
